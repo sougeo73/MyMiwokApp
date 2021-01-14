@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="category_colors">#8800A0</color>
+    <color name="category_family">#379237</color>
+    <color name="category_numbers">#FD8E09</color>
+    <color name="category_phrases">#16AFCA</color>
+    <color name="primary_color">#4A312A</color>
+    <color name="primary_dark_color">#2F1D1A</color>
+    <color name="tan_background">#FFF7DA</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+    <string name="app_name">Miwok</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_family">Family Members</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_phrases">Phrases</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+    </style>
+    <style name="CategoryStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/list_item_height</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+    </style>
+</resources>

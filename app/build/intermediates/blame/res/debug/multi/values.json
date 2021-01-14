@@ -1,0 +1,221 @@
+[
+    {
+        "outputFile": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 49,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 50,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 50,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 47,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 52,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 48,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 57,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 55,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 47,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 42,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 50,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 58,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 52,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 52,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1532
+                },
+                "from": {
+                    "file": "C:\\Users\\sou\\Desktop\\ud839_Miwok\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
